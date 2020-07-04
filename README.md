@@ -2,9 +2,9 @@
 <style>
   .title {
 color: red;
-  border-color:red;
-  border-width:5px;
-  border-style:solid;
+  border-color: red;
+  border-width: 5px;
+  border-style: thin;
   }
   .heading1 {
   color:green;
