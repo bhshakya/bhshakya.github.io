@@ -4,7 +4,7 @@
 color: red;
   border-color: red;
   border-width: 5px;
-  border-style: thin;
+  border-style: solid;
   }
   .heading1 {
   color:green;
