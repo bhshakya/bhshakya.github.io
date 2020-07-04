@@ -1,6 +1,10 @@
 <main id="main">
-
-  <h1 style="color:red;" id="title">STUDY MATERIAL</h1>
+<style>
+  .title {
+color: yellow;
+  }
+  </style>
+  <h1 class="title">STUDY MATERIAL</h1>
 
   <section id="Shiksha_Sopan">
     <h2 style="color:green;">Practice Test</h2>
