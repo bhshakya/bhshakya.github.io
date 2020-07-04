@@ -1,5 +1,3 @@
-
-Website for Study Material
 <main id="main">
 
   <h1 style="color:red;" id="title">STUDY MATERIAL</h1>
