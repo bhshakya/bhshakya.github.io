@@ -1,13 +1,19 @@
 <main id="main">
 <style>
   .title {
-color: yellow;
+color: red;
+  }
+  .heading1 {
+  color:green;
+  }
+  .heading2 {
+  color:green;
   }
   </style>
   <h1 class="title">STUDY MATERIAL</h1>
 
   <section id="Shiksha_Sopan">
-    <h2 style="color:green;">Practice Test</h2>
+    <h2 class="heading1">Practice Test</h2>
   </section>
   <a href="https://drive.google.com/file/d/1hbcbJz7HhnqUzk8ReswOsmUUncVOdERg/view?usp=sharing" target="_blank">Practice Test 1</a>  
   <br>
@@ -15,7 +21,7 @@ color: yellow;
   <br>
   <a href="https://drive.google.com/file/d/1PW5uqc8FSdMb-_hf9WUbXFYeeYl-3STS/view?usp=sharing" target="_blank">Practice Test 3</a>  
  <section>
-   <h2 style="color:green;">Worksheets</h2>
+   <h2 class="heading2">Worksheets</h2>
    </section>
    <a href="https://drive.google.com/file/d/1U5Oj8wr9_HrFOm_VaD43w17OYEMwni7A/view?usp=sharing" target="_blank">Matrices 1</a>
    <br>
