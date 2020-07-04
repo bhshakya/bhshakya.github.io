@@ -3,7 +3,7 @@
   <h1 style="color:red;" id="title">STUDY MATERIAL</h1>
 
   <section id="Shiksha_Sopan">
-    <h2 style="color:red;">Practice Test</h2>
+    <h2 style="color:green;">Practice Test</h2>
   </section>
   <a href="https://drive.google.com/file/d/1hbcbJz7HhnqUzk8ReswOsmUUncVOdERg/view?usp=sharing" target="_blank">Practice Test 1</a>  
   <br>
