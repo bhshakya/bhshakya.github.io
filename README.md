@@ -10,6 +10,7 @@
   margin-bottom: -20px;
   padding: 20px;
   background-color: black;
+  font-size: 75px;
   }
   .heading1 {
   color:green;
