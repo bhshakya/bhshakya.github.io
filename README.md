@@ -8,7 +8,7 @@
   border-radius: 10px;
   text-align: center;
   margin-bottom: -20px;
-  padding-top: 70px;
+  padding: 20px;
   background-color: black;
   }
   .heading1 {
