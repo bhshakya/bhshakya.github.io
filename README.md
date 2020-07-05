@@ -22,9 +22,9 @@
 
   <br>
 
-  <section id="Shiksha_Sopan">
+  /*<section id="Shiksha_Sopan">
     <h2 class="heading1">Practice Test</h2>
-  </section>
+  /*</section>
   <a href="https://drive.google.com/file/d/1hbcbJz7HhnqUzk8ReswOsmUUncVOdERg/view?usp=sharing" target="_blank">Practice Test 1</a>  
   <br>
   <a href="https://drive.google.com/file/d/1PY2wmz3hjouZ744xsId_YzUaU8pxtZeh/view?usp=sharing" target="_blank">Practice Test 2</a>  
