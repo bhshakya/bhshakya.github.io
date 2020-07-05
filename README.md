@@ -2,12 +2,12 @@
 <style>
   .title {
   color: red;
-  border-color: red;
+  border-color: white;
   border-width: 5px;
   border-style: solid;
   text-align: center;
   padding-top: 70px;
-  background-color: blue;
+  background-color: black;
   }
   .heading1 {
   color:green;
