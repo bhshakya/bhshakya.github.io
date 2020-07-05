@@ -7,6 +7,7 @@
   border-style: solid;
   text-align: center;
   padding-top: 70px;
+  background-color: blue;
   }
   .heading1 {
   color:green;
