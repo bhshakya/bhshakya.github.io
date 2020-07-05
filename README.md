@@ -1,8 +1,8 @@
 <main id="main">
 <style>
   .title {
-  color: red;
-  border-color: white;
+  color: white;
+  border-color: red;
   border-width: 5px;
   border-style: solid;
   text-align: center;
