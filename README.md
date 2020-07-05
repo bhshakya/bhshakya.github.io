@@ -6,7 +6,7 @@
   border-width: 5px;
   border-style: solid;
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: -20px;
   padding-top: 70px;
   background-color: black;
   }
@@ -18,7 +18,7 @@
   }
   </style>
   <h1 class="title">STUDY MATERIAL</h1>
-  
+
   <br>
 
   <section id="Shiksha_Sopan">
