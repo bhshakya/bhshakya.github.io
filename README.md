@@ -5,6 +5,7 @@
   border-color: red;
   border-width: 5px;
   border-style: solid;
+  border-radius: 10px;
   text-align: center;
   margin-bottom: -20px;
   padding-top: 70px;
