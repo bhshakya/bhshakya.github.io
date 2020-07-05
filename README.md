@@ -6,7 +6,7 @@
   border-width: 5px;
   border-style: solid;
   text-align: center;
-  padding-top: 30px;
+  padding-top: 50px;
   }
   .heading1 {
   color:green;
