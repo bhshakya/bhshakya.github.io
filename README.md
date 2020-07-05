@@ -18,7 +18,7 @@
   color:green;
   }
   </style>
-  <h1 class="title">STUDY MATERIAL</h1>
+  <h1 class="title"><strong>STUDY MATERIAL</strong></h1>
 
   <br>
 
