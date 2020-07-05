@@ -1,10 +1,11 @@
 <main id="main">
 <style>
   .title {
-color: red;
+  color: red;
   border-color: red;
   border-width: 5px;
   border-style: solid;
+  text-align:center;
   }
   .heading1 {
   color:green;
