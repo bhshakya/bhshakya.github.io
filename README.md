@@ -5,7 +5,7 @@
   border-color: red;
   border-width: 5px;
   border-style: solid;
-  text-align:center;
+  text-align: center;
   }
   .heading1 {
   color:green;
