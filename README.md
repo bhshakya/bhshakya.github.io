@@ -94,6 +94,8 @@
   <a href="https://drive.google.com/file/d/1xcOrkp2Ewf0o_bVejNLX8LqQ5nTBO8vT/view?usp=sharing" target="_blank">Additional Solution of Triangle Study Material</a>
   <br>
   <a href="https://drive.google.com/file/d/14JuNCuY0S-ZdbFUpSNNFbdOlQuKaPP8d/view?usp=sharing" target="_blank">Solution of Triangle 1</a>
+  <br>
+  <a href="https://drive.google.com/file/d/1vIw0IDeAXGhKkCHA0lgAUOGhJfCO-EJe/view?usp=sharing" target="_blank">Solution of Triangle 2</a>
   <br> 
 
 </main>
