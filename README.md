@@ -97,7 +97,7 @@
   <br>
   <a href="https://drive.google.com/file/d/14JuNCuY0S-ZdbFUpSNNFbdOlQuKaPP8d/view?usp=sharing" target="_blank">Solution of Triangle 1</a>
   <br>
-  <a href="https://drive.google.com/file/d/1vIw0IDeAXGhKkCHA0lgAUOGhJfCO-EJe/view?usp=sharing" target="_blank">Solution of Triangle 2</a>
+  <a href="https://drive.google.com/file/d/1dRW6fEYbO8Kwn1fWyv61KK8wqoJI-Rbv/view?usp=sharing" target="_blank">Solution of Triangle 2</a>
   <br>
 
 </main>
