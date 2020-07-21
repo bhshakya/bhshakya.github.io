@@ -101,5 +101,7 @@
   <br>
   <a href="https://drive.google.com/file/d/14AKRiN3J5-c3kra3UGbbIekg3-C5ArRY/view?usp=sharing" target="_blank">Solution of Triangle 3</a>
   <br>
+  <a href="https://drive.google.com/file/d/1eGeDQUvkm8rrtztxx-VahYC0boyvGz-Y/view?usp=sharing" target="_blank">Solution of Trianlge 4</a>
+  <br>
 
 </main>
