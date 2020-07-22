@@ -103,5 +103,7 @@
   <br>
   <a href="https://drive.google.com/file/d/1eGeDQUvkm8rrtztxx-VahYC0boyvGz-Y/view?usp=sharing" target="_blank">Solution of Trianlge 4</a>
   <br>
+  <a href="https://drive.google.com/file/d/1VzP43l220CGu-P9lmbbzWYX1YJEuO7Cu/view?usp=sharing" target="_blank"Solution of Triangle 5</a>
+  <br>
 
 </main>
