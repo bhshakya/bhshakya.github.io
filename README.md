@@ -2,7 +2,7 @@
 <style>
   .title {
   color: white;
-  border-color: red;
+  border-color: blue;
   border-width: 5px;
   border-style: solid;
   border-radius: 10px;
