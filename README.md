@@ -7,7 +7,7 @@
   border-style: solid;
   border-radius: 10px;
   text-align: center;
-  margin-bottom: -20px;
+  margin-bottom: 20px;
   padding: 20px;
   background-color: green;
   font-size: 40px;
