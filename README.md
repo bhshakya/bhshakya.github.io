@@ -1,7 +1,7 @@
 <main id="main">
 <style>
   .title {
-  color: white;
+  color: red;
   border-color: green;
   border-width: 5px;
   border-style: solid;
